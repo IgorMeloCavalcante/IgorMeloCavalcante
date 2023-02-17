@@ -5,13 +5,13 @@ I`m a Web Developer.
 
 #### Current stack
 
--⚡ Main language: `Javascript`
--⚙️ Backend: `Nodejs`
--👨‍💻 Frontend: `Reactjs, `HTML5`, `CSS3`, `Javascript`
--🎨 Layout Design: `Figma`
--📦 Version Code control: `Git & Github`
--🛠️ tools: `Markdown`, `VsCode`
+- ⚡ Main language: `Javascript`
+- ⚙️ Backend: `Nodejs`
+- 👨‍💻 Frontend: `Reactjs, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦 Version Code control: `Git & Github`
+- 🛠️ tools: `Markdown`, `VsCode`
 
 #### Contacts
--🧑‍💼linkedin: https://www.linkedin.com/in/igormcavalcante/
--📧Email: igorcavalcante.ca@gmail.com
+- 🧑‍💼linkedin: https://www.linkedin.com/in/igormcavalcante/
+- 📧Email: igorcavalcante.ca@gmail.com
